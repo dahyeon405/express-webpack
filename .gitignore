@@ -1,1 +1,4 @@
 /node_modules
+/.github
+Weeklyplan.md
+/dist/main.js
